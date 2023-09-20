@@ -7,12 +7,8 @@ A web-based Quiz Application developed using Angular and Spring Boot.
 
 - [Overview](#overview)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
